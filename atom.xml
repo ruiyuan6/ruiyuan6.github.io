@@ -6,7 +6,7 @@
   <link href="https://ruiyuan6.github.io/atom.xml" rel="self"/>
   
   <link href="https://ruiyuan6.github.io/"/>
-  <updated>2021-05-04T13:36:38.574Z</updated>
+  <updated>2021-05-04T17:23:14.770Z</updated>
   <id>https://ruiyuan6.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CPS测试</title>
+    <link href="https://ruiyuan6.github.io/2021/05/05/eofzbp/"/>
+    <id>https://ruiyuan6.github.io/2021/05/05/eofzbp/</id>
+    <published>2021-05-04T16:00:47.000Z</published>
+    <updated>2021-05-04T17:23:14.770Z</updated>
+    
+    <content type="html"><![CDATA[<p>重新测试请刷新</p><style>#cpshezi{height:100px;width:100%;background-color:rgb(0,0,200);color:white;text-align:center;font-size:300%;user-select:none}#cpshezi:active{background-color:rgb(50,50,100)}</style><div id="cpshezi">CPS测试</div><script>function dianji(){if(ee==0){pe=$("#cpshezi");$(pe).text("...");cy=10,cr=cy,ee=1,r=0,cps=0,si=setInterval(function(){cr=cr-1;$(pe).text(`${cr}`);if(cr==0){clearInterval(si);ee=2;cps=r/cy;$(pe).text(`${cps}`)}},1000)}else{if(ee==1){r=r+1}else{if(ee==2){layui.use('layer', function(){var layer = layui.layer;layer.open({title:'CPS',content:`您的CPS是${cps}`});});}}}}</script><script>ee=0;$("#cpshezi").bind("click",dianji)</script><script>$("#cpshezi").contextmenu(function(e){e.preventDefault();dianji();})</script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;重新测试请刷新&lt;/p&gt;
+&lt;style&gt;#cpshezi{height:100px;width:100%;background-color:rgb(0,0,200);color:white;text-align:center;font-size:300%;user-selec</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Windows XP 安装教程</title>
