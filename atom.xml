@@ -6,7 +6,7 @@
   <link href="https://ruiyuan6.github.io/atom.xml" rel="self"/>
   
   <link href="https://ruiyuan6.github.io/"/>
-  <updated>2021-05-02T15:14:49.479Z</updated>
+  <updated>2021-05-04T13:36:38.574Z</updated>
   <id>https://ruiyuan6.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Windows XP 安装教程</title>
+    <link href="https://ruiyuan6.github.io/2021/05/04/2davuo/"/>
+    <id>https://ruiyuan6.github.io/2021/05/04/2davuo/</id>
+    <published>2021-05-04T10:11:46.000Z</published>
+    <updated>2021-05-04T13:36:38.574Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="准备安装"><a href="#准备安装" class="headerlink" title="准备安装"></a>准备安装</h1><p>准备材料：从网上下载D:\DEEP_GHOSTXP_SP3_ZYZJB2014.iso（1.01 GB）、一台虚拟机或者真的电脑</p><p>打开虚拟机并单击“新建”按钮</p><p><img src="https://img.imgdb.cn/item/60914889d1a9ae528fa7f26e.png"></p><p>默认，下一步</p><p><img src="https://img.imgdb.cn/item/60914889d1a9ae528fa7f2c2.png"></p><p>加点内存</p><p><img src="https://img.imgdb.cn/item/60914889d1a9ae528fa7f315.png"></p><p>默认，下一步</p><p><img src="https://img.imgdb.cn/item/60914889d1a9ae528fa7f384.png"></p><p>默认，下一步</p><p><img src="https://img.imgdb.cn/item/60914889d1a9ae528fa7f3ee.png"></p><p>默认，下一步</p><p><img src="https://img.imgdb.cn/item/609148b1d1a9ae528faa0ee3.png"></p><p>默认，创建</p><p><img src="https://img.imgdb.cn/item/609148b1d1a9ae528faa0f3a.png"></p><h1 id="插入光盘"><a href="#插入光盘" class="headerlink" title="插入光盘"></a>插入光盘</h1><p><img src="https://img.imgdb.cn/item/609148b1d1a9ae528faa0f97.png"></p><p>没有光盘不能启动</p><p><img src="https://img.imgdb.cn/item/609148b1d1a9ae528faa100a.png"></p><p>选择你刚下载的文件</p><p><img src="https://img.imgdb.cn/item/609148b1d1a9ae528faa1075.png"></p><p>选择</p><p><img src="https://img.imgdb.cn/item/609148f5d1a9ae528fad88c0.png"></p><p>启动！</p><h1 id="开始安装"><a href="#开始安装" class="headerlink" title="开始安装"></a>开始安装</h1><p><img src="https://img.imgdb.cn/item/609148f5d1a9ae528fad8921.png"></p><p>按2运行WINPE微型系统</p><p><img src="https://img.imgdb.cn/item/609148f5d1a9ae528fad8989.png"></p><p>双击4个区，点确定</p><p><img src="https://img.imgdb.cn/item/609148f5d1a9ae528fad89e5.png"></p><p>第一次点No，把第二、三、四行右边的数字先调到1000，第一行调到5000，剩下的随意分配。依次点OK、Yes</p><p><img src="https://img.imgdb.cn/item/609148f5d1a9ae528fad8a47.png"></p><p>确定</p><p><img src="https://img.imgdb.cn/item/6091494bd1a9ae528fb1bdd3.png"></p><p>等待亿下，电脑会自动重启</p><p><img src="https://img.imgdb.cn/item/6091494bd1a9ae528fb1be2a.png"></p><p>继 续 等</p><h1 id="体验新系统"><a href="#体验新系统" class="headerlink" title="体验新系统"></a>体验新系统</h1><p><img src="https://img.imgdb.cn/item/6091494bd1a9ae528fb1be95.png"></p><p>系统装完了，还贴心地为我们准备了常用软件，非常的方便 🙂</p><p><img src="https://img.imgdb.cn/item/6091494bd1a9ae528fb1bf01.png"></p><p>我的Blog可以愉快地浏览 ✌</p><p><img src="https://img.imgdb.cn/item/6091494bd1a9ae528fb1bf68.png"></p><p>国内大公司的专业杀毒软件实时守护电脑安全 👍</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;准备安装&quot;&gt;&lt;a href=&quot;#准备安装&quot; class=&quot;headerlink&quot; title=&quot;准备安装&quot;&gt;&lt;/a&gt;准备安装&lt;/h1&gt;&lt;p&gt;准备材料：从网上下载D:\DEEP_GHOSTXP_SP3_ZYZJB2014.iso（1.01 GB）、一台虚拟机或者真的</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
