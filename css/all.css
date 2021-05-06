@@ -34,6 +34,7 @@ body {
     text-align: center;
     background-color: #fff;
     color: #009688;
+    box-shadow: 10px 10px 5px 0px #888888;
 }
 
 .site-mobile .site-menu {
