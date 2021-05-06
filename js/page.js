@@ -5,14 +5,17 @@ layui.use('code', function(){ //加载code模块
 });
 
 function qiehuanzuocaidan(){
-    if($('.left-menu')[0].style.display=='none'){
+    if($('.left-menu')[0].style.display!='none'){
+    $('.left-menu').hide();
+	}else{
+		if($('.left-menu')[0].style.display==""){
     $('.left-menu').addClass('layui-anim');
     $('.left-menu').addClass('layui-anim-down');
-    $('.left-menu').show();}else{
-        
+    $('.left-menu').show();
+		}
     $('.left-menu').addClass('layui-anim');
-    $('.left-menu').addClass('layui-anim-up');
-    $('.left-menu').hide();
+    $('.left-menu').addClass('layui-anim-down');
+    $('.left-menu').show();
     }
 }
 
