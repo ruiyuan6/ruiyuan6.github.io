@@ -6,7 +6,7 @@
   <link href="https://ruiyuan6.github.io/atom.xml" rel="self"/>
   
   <link href="https://ruiyuan6.github.io/"/>
-  <updated>2021-05-04T17:23:14.770Z</updated>
+  <updated>2021-05-05T20:32:42.305Z</updated>
   <id>https://ruiyuan6.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>咏鹅</title>
+    <link href="https://ruiyuan6.github.io/2021/05/06/ad5m0i/"/>
+    <id>https://ruiyuan6.github.io/2021/05/06/ad5m0i/</id>
+    <published>2021-05-05T18:56:41.000Z</published>
+    <updated>2021-05-05T20:32:42.305Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="咏鹅"><a href="#咏鹅" class="headerlink" title="咏鹅"></a>咏鹅</h1><p>原作：骆宾王</p><h3 id="鹅鹅鹅-曲项向天歌-白毛浮绿水-红掌拨清波"><a href="#鹅鹅鹅-曲项向天歌-白毛浮绿水-红掌拨清波" class="headerlink" title="鹅鹅鹅 曲项向天歌 白毛浮绿水 红掌拨清波"></a>鹅鹅鹅 曲项向天歌 白毛浮绿水 红掌拨清波</h3><p>屑的改编版：eee 邮箱向天鸽 白猫咏绿鹅 红卡喂龙咯</p><p>写的很菜的咏鹅程序</p><p>咏久了咏不动属正常现象</p><style>#yongehezi{width:100%;height: auto;word-wrap:break-word;word-break:break-all;}</style><form class="layui-form" action="">  <div class="layui-form-item">    <div class="layui-input-block">      <input type="text" id="yong" value="e" required lay-verify="required" placeholder="咏唱内容" class="layui-input">    </div>  </div>  <div class="layui-form-item">    <div class="layui-input-block">      <button type="button" class="layui-btn" id="yonge">咏鹅</button>      <button type="button" class="layui-btn" id="daduan">打断</button>      <button type="button" class="layui-btn" id="jixu">继续</button>      <button type="reset" class="layui-btn layui-btn-primary" id="chongzhi">重置</button>    </div>  </div></form> 先打断咏鹅再发卡 <a href="#comments">前往发卡</a><p id="zhuangtaihezi"></p><div id="yongehezi"></div><script>function yonge(){if($("#yong").val()==""){layui.use('layer', function(){var layer = layui.layer;layer.open({title:"咏不出来",content:"咏唱内容必须填写！"});});return;}fo=0;l=$("#yongehezi");$("#chongzhi").attr("disabled","e");$("#chongzhi").addClass("layui-disabled");$("#yong").attr("disabled","e");$("#yong").addClass("layui-disabled");$("#yonge").addClass("layui-disabled");$("#yonge").attr("disabled","e");$("#yonge").text("杀鹅");setInterval(function(){if(fo){yz++;e=document.createElement("e");$(e).text($("#yong").val());$(l).append(e)}})}function daduan(){fo=0;}function jixu(){fo=1;}</script><script>yz=0;setInterval(function(){$("#zhuangtaihezi").text(`${yz}只每秒`);yz=0;},1000)</script><script>$("#yonge").bind("click",function(){yonge();jixu();})</script><script>$("#jixu").bind("click",jixu)</script><script>$("#daduan").bind("click",daduan)</script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;咏鹅&quot;&gt;&lt;a href=&quot;#咏鹅&quot; class=&quot;headerlink&quot; title=&quot;咏鹅&quot;&gt;&lt;/a&gt;咏鹅&lt;/h1&gt;&lt;p&gt;原作：骆宾王&lt;/p&gt;
+&lt;h3 id=&quot;鹅鹅鹅-曲项向天歌-白毛浮绿水-红掌拨清波&quot;&gt;&lt;a href=&quot;#鹅鹅鹅-曲项向天歌-白毛浮绿水-红掌</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>CPS测试</title>

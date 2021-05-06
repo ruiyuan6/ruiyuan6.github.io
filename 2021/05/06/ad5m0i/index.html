@@ -154,19 +154,46 @@
     <div style="padding-top: 15px;">
         <article class="post">
   <div class="post-title">
-    <h2 class="title">CPS测试</h2>
+    <h2 class="title">咏鹅</h2>
   </div>
    <div class="post-meta">
-    <span class="post-time">2021-05-05</span>
+    <span class="post-time">2021-05-06</span>
   </div>
   <div class="post-content">
-    <p>重新测试请刷新</p>
-<style>#cpshezi{height:100px;width:100%;background-color:rgb(0,0,200);color:white;text-align:center;font-size:300%;user-select:none}#cpshezi:active{background-color:rgb(50,50,100)}</style>
-<div id="cpshezi">CPS测试</div>
-<script>function dianji(){if(ee==0){pe=$("#cpshezi");$(pe).text("...");cy=10,cr=cy,ee=1,r=0,cps=0,si=setInterval(function(){cr=cr-1;$(pe).text(`${cr}`);if(cr==0){clearInterval(si);ee=2;cps=r/cy;$(pe).text(`${cps}`)}},1000)}else{if(ee==1){r=r+1}else{if(ee==2){layui.use('layer', function(){var layer = layui.layer;layer.open({title:'CPS',content:`您的CPS是${cps}`});});}}}}</script>
-<script>ee=0;$("#cpshezi").bind("click",dianji)</script>
-<script>$("#cpshezi").contextmenu(function(e){e.preventDefault();dianji();})</script>
+    <h1 id="咏鹅"><a href="#咏鹅" class="headerlink" title="咏鹅"></a>咏鹅</h1><p>原作：骆宾王</p>
+<h3 id="鹅鹅鹅-曲项向天歌-白毛浮绿水-红掌拨清波"><a href="#鹅鹅鹅-曲项向天歌-白毛浮绿水-红掌拨清波" class="headerlink" title="鹅鹅鹅 曲项向天歌 白毛浮绿水 红掌拨清波"></a>鹅鹅鹅 曲项向天歌 白毛浮绿水 红掌拨清波</h3><p>屑的改编版：eee 邮箱向天鸽 白猫咏绿鹅 红卡喂龙咯</p>
+<p>写的很菜的咏鹅程序</p>
+<p>咏久了咏不动属正常现象</p>
+<style>#yongehezi{width:100%;height: auto;word-wrap:break-word;word-break:break-all;}</style>
+<form class="layui-form" action="">
+  <div class="layui-form-item">
+    <div class="layui-input-block">
+      <input type="text" id="yong" value="e" required lay-verify="required" placeholder="咏唱内容" class="layui-input">
+    </div>
+  </div>
+  <div class="layui-form-item">
+    <div class="layui-input-block">
+      <button type="button" class="layui-btn" id="yonge">咏鹅</button>
+      <button type="button" class="layui-btn" id="daduan">打断</button>
+      <button type="button" class="layui-btn" id="jixu">继续</button>
+      <button type="reset" class="layui-btn layui-btn-primary" id="chongzhi">重置</button>
+    </div>
+  </div>
+</form>
+ 
+先打断咏鹅再发卡 <a href="#comments">前往发卡</a>
 
+<p id="zhuangtaihezi">
+
+</p>
+<div id="yongehezi">
+
+</div>
+<script>function yonge(){if($("#yong").val()==""){layui.use('layer', function(){var layer = layui.layer;layer.open({title:"咏不出来",content:"咏唱内容必须填写！"});});return;}fo=0;l=$("#yongehezi");$("#chongzhi").attr("disabled","e");$("#chongzhi").addClass("layui-disabled");$("#yong").attr("disabled","e");$("#yong").addClass("layui-disabled");$("#yonge").addClass("layui-disabled");$("#yonge").attr("disabled","e");$("#yonge").text("杀鹅");setInterval(function(){if(fo){yz++;e=document.createElement("e");$(e).text($("#yong").val());$(l).append(e)}})}function daduan(){fo=0;}function jixu(){fo=1;}</script>
+<script>yz=0;setInterval(function(){$("#zhuangtaihezi").text(`${yz}只每秒`);yz=0;},1000)</script>
+<script>$("#yonge").bind("click",function(){yonge();jixu();})</script>
+<script>$("#jixu").bind("click",jixu)</script>
+<script>$("#daduan").bind("click",daduan)</script>
   </div>
   
   
