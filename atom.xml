@@ -6,7 +6,7 @@
   <link href="https://ruiyuan6.github.io/atom.xml" rel="self"/>
   
   <link href="https://ruiyuan6.github.io/"/>
-  <updated>2021-05-05T20:32:42.305Z</updated>
+  <updated>2021-07-30T09:52:50.545Z</updated>
   <id>https://ruiyuan6.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>论如何不用播放影像也能在RPG Maker VX Ace播放Bad Apple!!</title>
+    <link href="https://ruiyuan6.github.io/2021/07/30/zjc4js/"/>
+    <id>https://ruiyuan6.github.io/2021/07/30/zjc4js/</id>
+    <published>2021-07-30T09:43:06.000Z</published>
+    <updated>2021-07-30T09:52:50.545Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>这篇帖子是楼主的第一篇主题帖（即新人帖）。楼主是入坑不久的萌新，请多多关照~</strong><br>（<a href="https://rpg.blue/thread-486564-1-1.html">参与互动</a>）</p><p>希望有人看有人回，别一下就沉了呜啊！（哭）<br>工程未加密，可自己研究。<br>原理：<br>1.脚本修改地图信息<br>2.利用网传工具生成字符画，然后将字符画编成脚本（累 活）</p><p>视频（录屏与原汁原味视频重叠，请以实际效果为准）：<br><a href="https://ruiyuan6.github.io/upload/7404b743-fa26-4d1e-9d60-08d54189a1f9.mp4">下载地址</a><br>工程：<br><a href="https://ruiyuan6.github.io/upload/e6632c24-c660-4b6a-943a-016938311a7a.exe">下载地址</a></p><p>注意事项：<br>1.新人整活，大佬轻喷<br>2.不附带RTP数据包，请先安装RPG Maker VX Ace<br>3.已知Bug：播放过程中切出游戏会导致音画不同步<br>4.脚本在录制视频后还进行过优化，体积缩小了90%，大大缓解打开脚本编辑器的卡顿。如果运行有问题请回复</p><p>正当我准备新建NPC准备插脚本<br>左边直接就有播放影像？脚本都做好了！（晕）</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;这篇帖子是楼主的第一篇主题帖（即新人帖）。楼主是入坑不久的萌新，请多多关照~&lt;/strong&gt;&lt;br&gt;（&lt;a href=&quot;https://rpg.blue/thread-486564-1-1.html&quot;&gt;参与互动&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;希望有人看有人回，别</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>咏鹅</title>
